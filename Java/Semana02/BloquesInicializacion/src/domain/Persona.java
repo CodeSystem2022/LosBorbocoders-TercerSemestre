@@ -15,4 +15,25 @@ public class Persona {
     }
     
     
+    { //Bloque de inicializacion NO estatico (contexto dinamico)
+        System.out.println("Ejecucion del bloque NO estatico");  
+        this.idPersona = Persona.contadorPersonas++;//Incrementamos el atributo
+    }
+    
+    //Los bloques de inicializacion se ejecutan antes del constructor
+    
+  public Persona(){
+      System.out.println("Ejecucion del constructor");
+  }
+       
+  public int getIdPersona(){
+      return this.idPersona;
+  }
+
+    @Override
+    public String toString() {
+        return "Persona{" + "idPersona=" + idPersona + '}';
+    }
+  
+  
 }
