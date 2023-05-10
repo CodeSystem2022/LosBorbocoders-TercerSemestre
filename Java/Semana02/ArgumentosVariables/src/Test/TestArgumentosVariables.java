@@ -1,13 +1,26 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Test;
 
-/**
- *
- * @author USUARIO
- */
+
 public class TestArgumentosVariables {
+    public static void main(String[] args) {
+        imprimirNumeros(3,4,5);
+        imprimirNumeros(6,7,8);
+        variosParamatros("Juan","Perez", 6,7,8);
+    }
     
+    private static void variosParamatros(String nombre, String apellido, int ...numeros){
+        System.out.println("Nombre: "+ nombre+ " Apellido: "+ apellido);
+        imprimirNumeros(numeros);
+    } 
+            
+            
+    private static void imprimirNumeros (int ...numeros){
+        for (int i = 0; i < numeros.length ; i++) {
+            System.out.println("Elementos: "+ numeros[i]);
+        }
+ 
+    }
 }
+
+
