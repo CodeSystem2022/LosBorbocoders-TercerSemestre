@@ -1,4 +1,4 @@
-// 5.2 Clase Gerente - InstanceOf Alumno: Giuliana Paola Diaz Luna
+
 package domain;
 
 public class Gerente extends Empleado{
