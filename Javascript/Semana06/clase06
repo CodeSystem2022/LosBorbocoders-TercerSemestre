@@ -1,0 +1,46 @@
+class Per {
+    constructor (nombre, apellido){
+        this._nombre = nombre;
+        this._apellido = apellido;
+
+    }
+    get nombre (){
+      return this._nombre;
+    }
+
+    set nombre(nombre){
+      this._nombre = nombre;
+    }
+  get apellido(){
+    return this._apellido;
+  }
+
+  set apellido(apellido){
+    this._apellido = apellido;
+  }
+
+  
+}
+
+class Emp extends Per{ 
+  constructor(departamento){
+    this._departamento = departamento;
+
+  }
+  get departamento(){
+       return this._departamento;
+      }
+  set departamento (departamento){
+    this._departamento = departamento;
+  }
+
+
+}
+
+let persona1 = new Per('Juan','Otrera');
+console.log(persona1.nombre)
+persona1.nombre = 'Jose Ruiz';
+console.log(persona1.nombre);
+let persona2 = new Per('Manuel','Maria');
+console.log(persona2.nombre);
+persona2.nombre = 'Alexia Ayelen ';
