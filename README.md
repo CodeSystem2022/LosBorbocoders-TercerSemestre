@@ -24,7 +24,7 @@
 | 04       | `Axel`         | `Axel`      | `Kevin`      | `Martín`    |
 | 05       | `Emilse`       | `Javier`    | `Axel`       | `Martín`     |
 | 06       | `Kevin`        | `Kevin`     | `Javier`     | `Emilse`     |
-| 07       | `Alessandra`   | `Matias    `| `Martin`     | `Kevin`      |
+| 07       | `Alessandra`   | `Matias`    | `Martin`     | `Kevin`      |
 | 08       | `Emilse`       | `Emilse`    | `Paulina`    | `Alessandra` |
 | 09       | `Paulina`      | `Paulina`   | `Emilse`     | `Javier`     |
 | 10       | `Augusto`      | `Axel`      | `Alessandra` | `Paulina`    |
