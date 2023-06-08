@@ -21,12 +21,12 @@
 | 01       | `Augusto`      | `Augusto`   | `Augusto`    | `Augusto`    |
 | 02       | `Martín`       | `Martín`    | `Alessandra` | `Axel`       |
 | 03       | `Javier`       | `Javier`    | `Javier`     | `Martín`     |
-| 04       | `Axel`         | `Axel`      | `Kevin`      | `Martín`    |
+| 04       | `Axel`         | `Axel`      | `Kevin`      | `Martín`     |
 | 05       | `Emilse`       | `Javier`    | `Axel`       | `Martín`     |
 | 06       | `Kevin`        | `Kevin`     | `Javier`     | `Emilse`     |
-| 07       | `Alessandra`   | `Matias    `| `Martin`     | `Kevin`      |
+| 07       | `Alessandra`   | `Matias`    | `Martin`     | `Kevin`      |
 | 08       | `Emilse`       | `Emilse`    | `Paulina`    | `Alessandra` |
-| 09       | `Paulina`      | `Paulina`   | `Emilse`     | `Javier`     |
+| 09       | `Paulina`      | `Paulina`   | `Emilse`     | `Matias`     |
 | 10       | `Augusto`      | `Axel`      | `Alessandra` | `Paulina`    |
 | 11       | `Martín`       | `Emilse`    | `Kevin`      | `Martin`     |
 | 12       | `Javier`       | `Matias`    | `Javier`     | `Augusto`    |
