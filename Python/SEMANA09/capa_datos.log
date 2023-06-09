@@ -1,0 +1,112 @@
+08:12:23 PM:DEBUG [loger_base.py:15] Mensaje a nivel debug
+08:12:23 PM:INFO [loger_base.py:16] Mensaje a nivel info
+08:12:23 PM:WARNING [loger_base.py:17] Mensaje a nivel warning
+08:12:23 PM:ERROR [loger_base.py:18] Mensaje a nivel error
+08:12:23 PM:CRITICAL [loger_base.py:19] Mensaje a nivel critical
+08:21:25 PM:DEBUG [loger_base.py:15] Mensaje a nivel debug
+08:21:25 PM:INFO [loger_base.py:16] Mensaje a nivel info
+08:21:25 PM:WARNING [loger_base.py:17] Mensaje a nivel warning
+08:21:25 PM:ERROR [loger_base.py:18] Mensaje a nivel error
+08:21:25 PM:CRITICAL [loger_base.py:19] Mensaje a nivel critical
+08:22:47 PM:DEBUG [loger_base.py:15] Mensaje a nivel debug
+08:22:47 PM:INFO [loger_base.py:16] Mensaje a nivel info
+08:22:47 PM:WARNING [loger_base.py:17] Mensaje a nivel warning
+08:22:47 PM:ERROR [loger_base.py:18] Mensaje a nivel error
+08:22:47 PM:CRITICAL [loger_base.py:19] Mensaje a nivel critical
+08:23:38 PM:DEBUG [persona.py:58] 
+            Id Persona:1,
+            Nombre:Juan,
+            Apellido: Perez,
+            Email:jperez@gmail.com
+        
+08:23:38 PM:DEBUG [persona.py:60] 
+            Id Persona:None,
+            Nombre:Jose,
+            Apellido: Lepez,
+            Email:ljose@gmail.com
+        
+08:23:38 PM:DEBUG [persona.py:62] 
+            Id Persona:1,
+            Nombre:None,
+            Apellido: None,
+            Email:None
+        
+06:17:20 PM:ERROR [conexion.py:26] Ocurriò un error: could not translate host name "127.0.0.0.1" to address: Unknown host
+
+06:17:53 PM:ERROR [conexion.py:26] Ocurriò un error: could not translate host name "127.0.0.0.1" to address: Unknown host
+
+06:18:06 PM:ERROR [conexion.py:26] Ocurriò un error: could not translate host name "127.0.0.0.1" to address: Unknown host
+
+06:18:56 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x0000017B92AD0BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+06:18:56 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x0000017B9277F220; closed: 0>
+06:21:50 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x0000020DAC380BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+06:21:50 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x0000020DAC02F220; closed: 0>
+08:37:17 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x0000028375375CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:37:17 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x000002837708EB20; closed: 0>
+08:37:32 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x00000166FF8E5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:37:32 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x000001668160EC00; closed: 0>
+08:45:23 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x0000028EA9E65CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:45:23 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x0000028EABB6EC00; closed: 0>
+08:45:29 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x000001AC10EC5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:45:29 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x000001AC12BCEC00; closed: 0>
+08:45:55 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x0000017E41130BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:45:55 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x0000017E40DDF220; closed: 0>
+08:47:03 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x000001DD22295CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:47:03 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x000001DD2404EC00; closed: 0>
+08:49:00 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x000001D496BB5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:49:00 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x000001D498996CE0; closed: 0>
+08:52:38 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x00000280481B6680; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:52:38 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x000002804820B300; closed: 0>
+08:54:33 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x000002A756206680; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:54:33 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x000002A75625B300; closed: 0>
+08:54:53 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x000001F571296680; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:54:53 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x000001F5712EB300; closed: 0>
+08:56:36 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x00000175983D6680; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:56:36 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x000001759842B300; closed: 0>
+08:56:45 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x000001A021316680; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:56:45 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x000001A02136B300; closed: 0>
+08:57:37 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x0000021C532D0BF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:57:37 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x0000021C52F7F220; closed: 0>
+08:58:11 PM:DEBUG [conexion.py:23] Conexión Exitosa: <connection object at 0x000002118F176680; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:58:11 PM:DEBUG [conexion.py:35] Se abrió correctamente el cursor: <cursor object at 0x000002118F1CB300; closed: 0>
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] S
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] E
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] L
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] E
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] C
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] T
+08:58:32 PM:DEBUG [PersonaDAO.PY:36]  
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] *
+08:58:32 PM:DEBUG [PersonaDAO.PY:36]  
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] F
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] R
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] O
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] M
+08:58:32 PM:DEBUG [PersonaDAO.PY:36]  
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] p
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] e
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] r
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] s
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] o
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] n
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] a
+08:58:32 PM:DEBUG [PersonaDAO.PY:36]  
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] O
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] R
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] D
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] E
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] R
+08:58:32 PM:DEBUG [PersonaDAO.PY:36]  
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] B
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] Y
+08:58:32 PM:DEBUG [PersonaDAO.PY:36]  
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] i
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] d
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] _
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] p
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] e
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] r
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] s
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] o
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] n
+08:58:32 PM:DEBUG [PersonaDAO.PY:36] a
