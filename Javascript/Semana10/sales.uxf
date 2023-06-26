@@ -1,0 +1,39 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>60</x><y>30</y><w>210</w><h>220</h></coordinates><panel_attributes>&lt;&lt;Order&gt;&gt;
+--
+-idOrder: number
+-products[]: Product
+-counterOfAddedProducts: number
+__-orderCounter: number__
+__-MAX_PRODUCTS = 5__
+--
++order()
++addProduct()
++calculateTotal()
++displayOrder()
+--
+Responsibilities
+--Create Order objects 
+--Manage the prodcuts order
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>60</x><y>330</y><w>210</w><h>240</h></coordinates><panel_attributes>&lt;&lt;Product&gt;&gt;
+--
+-idProduct: number:
+-name: String
+-price: number
+-productCounter: number
+--
++Product()
++getIdProduct(): number
++getName(): string
++setName(name)
++getPrice():  number
++setPrice(price)
++toString(): string
+--
+Responsibilities
+--Create Product objects</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>440</x><y>50</y><w>210</w><h>190</h></coordinates><panel_attributes>&lt;&lt;TestingSales&gt;&gt;
+--
+It's not a class, it's a test of objects creation.
+--
+Responsibilities
+-- Execute the testing</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>260</x><y>120</y><w>200</w><h>30</h></coordinates><panel_attributes>lt=&lt;..&gt;</panel_attributes><additional_attributes>10;10;180;10</additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>240</y><w>30</w><h>110</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;90</additional_attributes></element></diagram>
