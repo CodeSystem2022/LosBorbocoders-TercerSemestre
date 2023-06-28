@@ -29,7 +29,7 @@
 | 09       | `Paulina`      | `Matias`    | `Emilse`     | `Matias`     |
 | 10       | `Augusto`      | `Matias`    | `Augusto`    | `Matias`     |
 | 11       | `Martín`       | `Emilse`    | `Kevin`      | `Martin`     |
-| 12       | `Javier`       | `Matias`    | `Javier`     | `Augusto`    |
+| 12       | `Matias`       | `Matias`    | `Javier`     | `Augusto`    |
 
 
 
