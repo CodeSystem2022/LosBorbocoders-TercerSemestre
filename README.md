@@ -14,7 +14,12 @@
   - `Matias Didzius`
   - `Augusto Britos`
 
+
   (*) Reorganizados al 28/06/2023 cubriendo ejercicios que no fueron realizados en tiempo y forma, para mantener el repositorio al dia.
+
+
+
+
   
 | *Semana* 📅 | *Scrum Master* 🔎| *Python*    | *Javascript* | *Java*       |
 | :------: | :------------: | :------:    | :----------: | :-------:    |
