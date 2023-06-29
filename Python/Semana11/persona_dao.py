@@ -1,8 +1,8 @@
-from Semana08.capa_datos_persona.persona import Persona
+from Semana08.capa_datos_persona.Persona import Persona
 from Semana08.capa_datos_persona.conexion import Conexion
-
-from cursor_del_pool import CursorDelPool
 from loger_base import log
+from cursor_del_pool import CursorDelPool
+
 
 class PersonaDAO:
     """
@@ -56,19 +56,19 @@ class PersonaDAO:
 if __name__ == '__main__':
 
     # Eliminar un registro
-    #persona1 = Persona(id_persona=5)
-    #personas_eliminadas = PersonaDAO.eliminar(persona1)
-    #log.debug(f'Personas eliminadas: {personas_eliminadas}')
+    persona1 = Persona(id_persona=8)
+    personas_eliminadas = PersonaDAO.eliminar(persona1)
+    log.debug(f'Personas eliminadas: {personas_eliminadas}')
 
     # Actualiza un registro
-    # persona1 = Persona(1, nombre='Nuevo1', apellido='Actualizado1', email='actual@mail.com')
-    # personas_actualizadas = PersonaDAO.actualizar(persona1)
-    # log.debug(f'Personas actualizadas: {personas_actualizadas}')
+    persona1 = Persona(1, nombre='Juan', apellido='Pena', email='penaj@mail.com')
+    personas_actualizadas = PersonaDAO.actualizar(persona1)
+    log.debug(f'Personas actualizadas: {personas_actualizadas}')
 
     #Inserta un registro
-    #persona1 = Persona(nombre='Homero', apellido='Simpsons', email='homero@mail.com')
-    #personas_insertadas = PersonaDAO.insertar(persona1)
-    #log.debug(f'Personas insertadas: {personas_insertadas}')
+    persona1 = Persona(nombre='Marcos', apellido='Tejada', email='MTejada@mail.com')
+    personas_insertadas = PersonaDAO.insertar(persona1)
+    log.debug(f'Personas insertadas: {personas_insertadas}')
 
     #Seleccionar objetos
     personas = PersonaDAO.seleccionar()
