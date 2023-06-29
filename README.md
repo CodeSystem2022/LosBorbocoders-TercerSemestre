@@ -28,7 +28,7 @@
 | 08       | `Emilse`       | `Emilse`    | `Paulina`    | `Alessandra` |
 | 09       | `Paulina`      | `Matias`    | `Emilse`     | `Matias`     |
 | 10       | `Augusto`      | `Matias`    | `Augusto`    | `Matias`     |
-| 11       | `Martín`       | `Emilse`    | `Kevin`      | `Matias`     |
+| 11       | `Martín`       | `Emilse`    | `Kevin`      | `Martin`     |
 | 12       | `Matias`       | `Axel`      | `Javier`     | `Matias`     |
 
 
