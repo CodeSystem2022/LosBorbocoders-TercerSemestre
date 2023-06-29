@@ -14,7 +14,7 @@
   - `Matias Didzius`
   - `Augusto Britos`
 
-- (*) Reorganizados al 26/06/2023 cubriendo ejercicios que no fueron realizados en tiempo y forma, para mantener el repositorio al dia.
+  (*) Reorganizados al 28/06/2023 cubriendo ejercicios que no fueron realizados en tiempo y forma, para mantener el repositorio al dia.
   
 | *Semana* 📅 | *Scrum Master* 🔎| *Python*    | *Javascript* | *Java*       |
 | :------: | :------------: | :------:    | :----------: | :-------:    |
@@ -28,8 +28,8 @@
 | 08       | `Emilse`       | `Emilse`    | `Paulina`    | `Alessandra` |
 | 09       | `Paulina`      | `Matias`    | `Emilse`     | `Matias`     |
 | 10       | `Augusto`      | `Matias`    | `Augusto`    | `Matias`     |
-| 11       | `Martín`       | `Emilse`    | `Kevin`      | `Martin`     |
-| 12       | `Matias`       | `Matias`    | `Javier`     | `Augusto`    |
+| 11       | `Martín`       | `Emilse`    | `Kevin`      | `Matias`     |
+| 12       | `Matias`       | `Axel`      | `Javier`     | `Matias`     |
 
 
 
