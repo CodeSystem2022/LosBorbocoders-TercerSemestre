@@ -51,8 +51,8 @@ Java es un lenguaje de programación orientado a objetos y portátil. Permite ej
 | 08       | `Emilse`       | `Emilse`    | `Paulina`    | `Alessandra` |
 | 09       | `Paulina`      | `Matias`    | `Emilse`     | `Matias`     |
 | 10       | `Augusto`      | `Matias`    | `Augusto`    | `Matias`     |
-| 11       | `Martín`       | `Emilse`    | `Kevin`      | `Martin`     |
-| 12       | `Matias`       | `Axel`      | `Javier`     | `Matias`     |
+| 11       | `Martín`       | `Emilse`    | `-----`      | `Martin`     |
+| 12       | `Matias`       | `----`      | `------`     | `Matias`     |
 
 
 
