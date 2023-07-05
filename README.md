@@ -40,19 +40,19 @@ Java es un lenguaje de programación orientado a objetos y portátil. Permite ej
 
   
 | *Semana* 📅 | *Scrum Master* 🔎| *Python*    | *Javascript* | *Java*       |
-| :------: | :------------: | :------:    | :----------: | :-------:    |
-| 01       | `Augusto`      | `Augusto`   | `Augusto`    | `Augusto`    |
-| 02       | `Martín`       | `Martín`    | `Alessandra` | `Axel`       |
-| 03       | `Javier`       | `Javier`    | `Javier`     | `Martín`     |
-| 04       | `Axel`         | `Axel`      | `Kevin`      | `Martín`     |
-| 05       | `Emilse`       | `Javier`    | `Axel`       | `Martín`     |
-| 06       | `Kevin`        | `Kevin`     | `Javier`     | `Emilse`     |
-| 07       | `Alessandra`   | `Matias`    | `Martin`     | `Kevin`      |
-| 08       | `Emilse`       | `Emilse`    | `Paulina`    | `Alessandra` |
-| 09       | `Paulina`      | `Matias`    | `Emilse`     | `Matias`     |
-| 10       | `Augusto`      | `Matias`    | `Augusto`    | `Matias`     |
-| 11       | `Martín`       | `Emilse`    | `-----`      | `Martin`     |
-| 12       | `Matias`       | `----`      | `------`     | `Matias`     |
+| :------: | :------------: | :------:    | :----------: | :-------:          |
+| 01       | `Augusto`      | `Augusto`   | `Augusto`    | `Augusto`          |
+| 02       | `Martín`       | `Martín`    | `Alessandra` | `Axel`             |
+| 03       | `Javier`       | `Javier`    | `Javier`     | `Martín`           |
+| 04       | `Axel`         | `Axel`      | `Kevin`      | `Martín`           |
+| 05       | `Emilse`       | `Javier`    | `Axel`       | `Martín`           |
+| 06       | `Kevin`        | `Kevin`     | `Javier`     | `Emilse`           |
+| 07       | `Alessandra`   | `Matias`    | `Martin`     | `Kevin`            |
+| 08       | `Emilse`       | `Emilse`    | `Paulina`    | `Emilse-Alexandra` |
+| 09       | `Paulina`      | `Matias`    | `Emilse`     | `Matias`           |
+| 10       | `Augusto`      | `Matias`    | `Augusto`    | `Matias`           |
+| 11       | `Martín`       | `Axel`      | `-----`      | `Martin`           |
+| 12       | `Matias`       | `----`      | `------`     | `Matias`           |
 
 
 
